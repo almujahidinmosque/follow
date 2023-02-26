@@ -13,14 +13,14 @@ disableKinds = ["taxonomy", "term"]
   image = "profile-almujahidinmosque.webp"
 
   links = [
-    { link = "https://almujahidinmosque.netlify.app" },
-    { google = { href = "https://goo.gl/maps/dWWYDN1gMqPyj1s8A", text = "Maps" } },
-    { facebook = "https://facebook.com/almujahidinmosque" },
-    { instagram = "https://instagram.com/almujahidinmosque" },
-    { tiktok = "https://tiktok.com/@almujahidinmosque" },
-    { twitter = "https://twitter.com/almujahidinmsq" },
-    { github = "https://github.com/almujahidinmosque" },
-    { email = "mailto:almujahidinmosque.or.id@gmail.com" },
+    { link = { href = "https://almujahidinmosque.netlify.app", text = "Website", target = "_blank" } },
+    { google = { href = "https://goo.gl/maps/dWWYDN1gMqPyj1s8A", text = "Maps", target = "_blank" } },
+    { facebook = { href = "https://facebook.com/almujahidinmosque", text = "Facebook", target = "_blank" } },
+    { instagram = { href = "https://instagram.com/almujahidinmosque", text = "Instagram", target = "_blank" } },
+    { tiktok = { href = "https://tiktok.com/@almujahidinmosque", text = "TikTok", target = "_blank" } },
+    { twitter = { href = "https://twitter.com/almujahidinmsq", text = "Twitter", target = "_blank" } },
+    { github = { href = "https://github.com/almujahidinmosque", text = "GitHub", target = "_blank" } },
+    { email = { href = "mailto:almujahidinmosque.or.id@gmail.com", text = "Email", target = "_blank" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },

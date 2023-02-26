@@ -1,0 +1,24 @@
+.link-telegram {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(120deg, #221aff, #1a94ff);
+}
+
+.link-facebook {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(120deg, #1a94ff, #4208ff);
+}
+
+.link-tiktok {
+  background-color: #000000;
+  background: linear-gradient(120deg, #FE2C55, #25F4EE);
+}
+
+.link-twitter {
+  background-color: #1da1f2;
+  background: linear-gradient(120deg, #1D9FF0, #1371ff);
+}
+
+.link-github {
+  background-color: #29f283;
+  background: linear-gradient(120deg, #70ba3f, #901ee7);
+}

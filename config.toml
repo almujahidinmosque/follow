@@ -1,0 +1,56 @@
+baseURL = "https://link.almujahidinmosque.netlify.app/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "Tautan Bio | Al-Mujahidin Mosque"
+copyright = "2020-2023 | Al-Mujahidin Mosque"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Al-Mujahidin Mosque"
+  image = "profile-almujahidinmosque.webp"
+
+  links = [
+    { link = "https://almujahidinmosque.netlify.app" },
+    { google = { href = "https://goo.gl/maps/dWWYDN1gMqPyj1s8A", text = "Maps" } },
+    { facebook = "https://facebook.com/almujahidinmosque" },
+    { instagram = "https://instagram.com/almujahidinmosque" },
+    { tiktok = "https://tiktok.com/@almujahidinmosque" },
+    { twitter = "https://twitter.com/almujahidinmsq" },
+    { github = "https://github.com/almujahidinmosque" },
+    { email = "mailto:almujahidinmosque.or.id@gmail.com" },
+    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    # { apple = "https://www.apple.com" },
+    # { codepen = "https://codepen.io/username" },
+    # { dev = "https://dev.to/username" },
+    # { discord = "https://discord.gg/invitecode" },
+    # { dribbble = "https://dribbble.com/username" },
+    # { flickr = "https://www.flickr.com/photos/username/" },
+    # { foursquare = "https://foursquare.com/username" },
+    # { github = "https://github.com/username" },
+    # { google = "https://www.google.com/" },
+    # { keybase = "https://keybase.io/username" },
+    # { kickstarter = "https://www.kickstarter.com/profile/username" },
+    # { lastfm = "https://lastfm.com/user/username" },
+    # { linkedin = "https://linkedin.com/in/username" },
+    # { mastodon = "https://mastodon.instance/@username" },
+    # { medium = "https://medium.com/username" },
+    # { microsoft = "https://www.microsoft.com/" },
+    # { patreon = "https://www.patreon.com/username" },
+    # { pinterest = "https://pinterest.com/username" },
+    # { reddit = "https://reddit.com/user/username" },
+    # { slack = "https://workspace.url/team/userid" },
+    # { snapchat = "https://snapchat.com/add/username" },
+    # { soundcloud = "https://soundcloud.com/username" },
+    # { steam = "https://steamcommunity.com/profiles/userid" },
+    # { tumblr = "https://username.tumblr.com" },
+    # { twitch = "https://twitch.tv/username" },
+    # { youtube = "https://youtube.com/username" },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.86.1"

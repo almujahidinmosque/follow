@@ -1,7 +1,7 @@
 ---
-description: "Sebuah Masjid yang terletak di Desa Kembangsri, Kecamatan Ngoro, Kabupaten Mojokerto"
+description: "Masjid yang terletak di Jl. Raden Wijaya No. 1, Ds. Kembangsri, Kec. Ngoro, Kabupaten Mojokerto, Jawa Timur. Yuk, ikuti aktifitas kami di sosial media."
 ---
 
-![masjid](image/banner-web.webp)
+![almujahidin-mosque](image/banner-web.webp)
 
 Masjid yang memiliki program dakwah seperti Kajian tematik, Subuh berkah, Jum'at berkah dan Pasar Rakyat. Yuk, mari ikuti aktifitas kami di sosial media dibawah ini ya..

@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Al-Mujahidin Mosque"
-  image = "profile-almujahidinmosque.webp"
+  image = "image/logo-web.webp"
 
   links = [
     { link = { href = "https://almujahidinmosque.or.id", text = "Website", target = "_blank" } },

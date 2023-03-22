@@ -17,6 +17,7 @@ disableKinds = ["taxonomy", "term"]
     { google = { href = "https://goo.gl/maps/dWWYDN1gMqPyj1s8A", text = "Maps", target = "_blank" } },
     { facebook = { href = "https://facebook.com/almujahidinmosque", text = "Facebook", target = "_blank" } },
     { instagram = { href = "https://instagram.com/almujahidinmosque", text = "Instagram", target = "_blank" } },
+    { telegram = { href = "https://telegram.me/almujahidinmosque", text = "Telegram", target = "_blank" } },
     { tiktok = { href = "https://tiktok.com/@almujahidinmosque", text = "TikTok", target = "_blank" } },
     { twitter = { href = "https://twitter.com/almujahidinmsq", text = "Twitter", target = "_blank" } },
     { github = { href = "https://github.com/almujahidinmosque", text = "GitHub", target = "_blank" } },
